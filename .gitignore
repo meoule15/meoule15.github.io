@@ -1,0 +1,7 @@
+# Private CV sources and the full CV (only website_cv.pdf is published)
+cv.typ
+cv.pdf
+website_cv.typ
+
+# Raw source photo (cropped copy lives in images/)
+1000183058.jpg
